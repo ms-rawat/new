@@ -114,5 +114,7 @@ class Calculator extends Frame implements ActionListener
         Calculator calC = new Calculator();
         calC.setVisible(true);
         calC.setLocation(300,300);
+
+        System.out.println("Correct the code");
     }
 }
